@@ -7,3 +7,8 @@
 
 
 ![ikiye bölme2](https://user-images.githubusercontent.com/83709603/117290366-63e10f80-ae76-11eb-9f32-06cbe65f5302.JPG)
+
+Örnek olarak; 
+a için -2 
+b için 2
+değerlerini verebilirsiniz
